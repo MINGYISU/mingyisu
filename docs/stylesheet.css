@@ -8,7 +8,6 @@
   --rule: #e8e8e8;
   --link: #1772d0;
   --link-hover: #f09228;
-  --highlight: #ffffd0;
   --thumb-bg: #fff;
 }
 
@@ -20,7 +19,6 @@
     --rule: #2c2c30;
     --link: #6aa9ff;
     --link-hover: #f5a54a;
-    --highlight: #26261a;
     --thumb-bg: #f4f4f4;
   }
 }
@@ -137,8 +135,6 @@ h2 {
   padding: 16px;
   border-radius: 6px;
 }
-
-.paper.highlight { background: var(--highlight); }
 
 .thumb {
   flex: 0 0 180px;
