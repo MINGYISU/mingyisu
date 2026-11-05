@@ -5,9 +5,10 @@ Undergraduate researcher at the **University of Waterloo**, working with [Prof. 
 🌐 **Website:** [mingyisu.github.io/mingyisu](https://mingyisu.github.io/mingyisu/) · 🎓 [Google Scholar](https://scholar.google.ca/citations?hl=en&user=iDWKBDkAAAAJ) · 🤗 [Hugging Face](https://huggingface.co/MINGYISU) · 💼 [LinkedIn](https://www.linkedin.com/in/mingyi-su-02bb91263) · 📫 m7su@uwaterloo.ca
 
 ### 🔭 Research Interests
-- **Trustworthy AI agents**: verifiable task completion, evidence-grounded self-verification, and knowing when to stop
-- **Multimodal representation learning & retrieval** across text, image, video, and speech
-- **Evaluation & benchmarking** of LLMs and AI agents
+- Trustworthy AI agents
+- Multimodal representation learning & retrieval
+- Evaluation & benchmarking of LLMs and AI agents
+- Reward modeling & RLHF
 
 ### 📝 Selected Publications
 - **MMEB-V3**: Measuring the Performance Gaps of Omni-Modality Embedding Models. *COLM 2026* · [Paper](https://arxiv.org/abs/2604.23321)
@@ -23,4 +24,4 @@ Undergraduate researcher at the **University of Waterloo**, working with [Prof. 
 ### 🧰 Tools
 Python · PyTorch · Transformers · TRL · LangChain · R · C++ · SQL
 
-💬 I'm looking for graduate research opportunities in reliable AI agents. Feel free to reach out!
+💬 I'm looking for graduate research opportunities. Feel free to reach out!
