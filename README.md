@@ -18,8 +18,10 @@ Undergraduate researcher at the **University of Waterloo**, working with [Prof. 
 - **VideoScore2**: Think before You Score in Generative Video Evaluation. *arXiv 2025* · [Paper](https://arxiv.org/abs/2509.22799)
 
 ### 🛠️ Projects
-- [Trustworthy Medical AI: Multi-Judge Evaluation & Alignment](https://github.com/MINGYISU/Trustworthy-Medical-AI-Multi-Judge-Evaluation-and-Alignment-Framework): multi-generator, multi-judge LLM evaluation for medical documentation, with preference-based fine-tuning of Qwen3-4B
-- [ECG Digitization from Photographs](https://github.com/MINGYISU/ECG_Digitalization_from_Photographs): extracts ECG waveforms from photos using a CNN with spatial attention
+- [Trustworthy Medical AI: Multi-Judge Evaluation & Alignment](https://github.com/MINGYISU/Trustworthy-Medical-AI-Multi-Judge-Evaluation-and-Alignment-Framework): evaluates generated medical notes with multiple LLM judges for grounding, completeness, and documentation compliance, then uses judge consensus to identify reliable supervision.
+- [TransformerFromScratch](https://github.com/MINGYISU/TransformerFromScratch): a concept-first tutorial that builds a GPT from PyTorch tensors and autograd, then explores LLM training and post-training methods including SFT, RLHF, DPO, and GRPO.
+- [OpenModelLab](https://github.com/MINGYISU/OpenModelLab): a reproducible research codebase for pre-training, embedding training, SFT, DPO, and GRPO on open LLMs, with tools to evaluate how training changes model behavior.
+- [NovelStudio](https://github.com/MINGYISU/NovelStudio): a local-first writing studio for long-form fiction, with manuscript organization, story maps, foreshadowing tracking, a codex, and layered backups.
 
 ### 🧰 Tools
 Python · PyTorch · Transformers · TRL · LangChain · R · C++ · SQL
